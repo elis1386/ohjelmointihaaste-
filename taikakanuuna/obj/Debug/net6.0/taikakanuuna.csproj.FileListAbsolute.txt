@@ -1,0 +1,15 @@
+/Users/s2200704/Documents/ohjelmointihaaste-/taikakanuuna/obj/Debug/net6.0/taikakanuuna.csproj.AssemblyReference.cache
+/Users/s2200704/Documents/ohjelmointihaaste-/taikakanuuna/obj/Debug/net6.0/taikakanuuna.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2200704/Documents/ohjelmointihaaste-/taikakanuuna/obj/Debug/net6.0/taikakanuuna.AssemblyInfoInputs.cache
+/Users/s2200704/Documents/ohjelmointihaaste-/taikakanuuna/obj/Debug/net6.0/taikakanuuna.AssemblyInfo.cs
+/Users/s2200704/Documents/ohjelmointihaaste-/taikakanuuna/obj/Debug/net6.0/taikakanuuna.csproj.CoreCompileInputs.cache
+/Users/s2200704/Documents/ohjelmointihaaste-/taikakanuuna/bin/Debug/net6.0/taikakanuuna
+/Users/s2200704/Documents/ohjelmointihaaste-/taikakanuuna/bin/Debug/net6.0/taikakanuuna.deps.json
+/Users/s2200704/Documents/ohjelmointihaaste-/taikakanuuna/bin/Debug/net6.0/taikakanuuna.runtimeconfig.json
+/Users/s2200704/Documents/ohjelmointihaaste-/taikakanuuna/bin/Debug/net6.0/taikakanuuna.dll
+/Users/s2200704/Documents/ohjelmointihaaste-/taikakanuuna/bin/Debug/net6.0/taikakanuuna.pdb
+/Users/s2200704/Documents/ohjelmointihaaste-/taikakanuuna/obj/Debug/net6.0/taikakanuuna.dll
+/Users/s2200704/Documents/ohjelmointihaaste-/taikakanuuna/obj/Debug/net6.0/refint/taikakanuuna.dll
+/Users/s2200704/Documents/ohjelmointihaaste-/taikakanuuna/obj/Debug/net6.0/taikakanuuna.pdb
+/Users/s2200704/Documents/ohjelmointihaaste-/taikakanuuna/obj/Debug/net6.0/taikakanuuna.genruntimeconfig.cache
+/Users/s2200704/Documents/ohjelmointihaaste-/taikakanuuna/obj/Debug/net6.0/ref/taikakanuuna.dll
