@@ -8,14 +8,13 @@
     {
         public static void Main(string[] args)
         {
+            Random random = new Random();
+            int number = random.Next(1, 100);
+            Console.WriteLine(number);
             while (true)
             {
                 Console.WriteLine("Guess a number between 1-100?");
                 int answer = Int32.Parse(Console.ReadLine());
-                Random random = new Random(100);
-                int number = random.Next(1, 100);
-               /*  Console.WriteLine(number); */
-
 
                 if (answer == number)
                 {
