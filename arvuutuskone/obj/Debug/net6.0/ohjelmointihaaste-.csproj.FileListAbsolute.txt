@@ -1,0 +1,15 @@
+/Users/s2200704/Documents/ohjelmointihaaste-/arvuutuskone/obj/Debug/net6.0/ohjelmointihaaste-.csproj.AssemblyReference.cache
+/Users/s2200704/Documents/ohjelmointihaaste-/arvuutuskone/obj/Debug/net6.0/ohjelmointihaaste-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2200704/Documents/ohjelmointihaaste-/arvuutuskone/obj/Debug/net6.0/ohjelmointihaaste-.AssemblyInfoInputs.cache
+/Users/s2200704/Documents/ohjelmointihaaste-/arvuutuskone/obj/Debug/net6.0/ohjelmointihaaste-.AssemblyInfo.cs
+/Users/s2200704/Documents/ohjelmointihaaste-/arvuutuskone/obj/Debug/net6.0/ohjelmointihaaste-.csproj.CoreCompileInputs.cache
+/Users/s2200704/Documents/ohjelmointihaaste-/arvuutuskone/bin/Debug/net6.0/ohjelmointihaaste-
+/Users/s2200704/Documents/ohjelmointihaaste-/arvuutuskone/bin/Debug/net6.0/ohjelmointihaaste-.deps.json
+/Users/s2200704/Documents/ohjelmointihaaste-/arvuutuskone/bin/Debug/net6.0/ohjelmointihaaste-.runtimeconfig.json
+/Users/s2200704/Documents/ohjelmointihaaste-/arvuutuskone/bin/Debug/net6.0/ohjelmointihaaste-.dll
+/Users/s2200704/Documents/ohjelmointihaaste-/arvuutuskone/bin/Debug/net6.0/ohjelmointihaaste-.pdb
+/Users/s2200704/Documents/ohjelmointihaaste-/arvuutuskone/obj/Debug/net6.0/ohjelmointihaaste-.dll
+/Users/s2200704/Documents/ohjelmointihaaste-/arvuutuskone/obj/Debug/net6.0/refint/ohjelmointihaaste-.dll
+/Users/s2200704/Documents/ohjelmointihaaste-/arvuutuskone/obj/Debug/net6.0/ohjelmointihaaste-.pdb
+/Users/s2200704/Documents/ohjelmointihaaste-/arvuutuskone/obj/Debug/net6.0/ohjelmointihaaste-.genruntimeconfig.cache
+/Users/s2200704/Documents/ohjelmointihaaste-/arvuutuskone/obj/Debug/net6.0/ref/ohjelmointihaaste-.dll
