@@ -8,36 +8,26 @@
         {
             Console.WriteLine("Valitse numero: Kivi = 1; Sukset = 2; Paperi = 3;");
             int userAnswer = Int32.Parse(Console.ReadLine());
+            int compAnswer = new Random().Next(3);
+            Console.WriteLine(compAnswer);
 
-            List<int> list = new List<int>{1,2,3};
-            Random random = new Random();
-            int index = random.Next(list.Count);
-            Console.WriteLine(list[index]);
+            if (userAnswer == compAnswer)
+            {
+                Console.WriteLine("Draw");
+                return;
+            }
 
-            if(userAnswer == 1 && list[index] == 2)
+            if (
+                (userAnswer == 1 && compAnswer == 2) ||
+                (userAnswer == 2 && compAnswer == 3) ||
+                (userAnswer == 3 && compAnswer == 2)
+            )
             {
                 Console.WriteLine("User won!");
+                return;
             }
-            else if(userAnswer == 2 && list[index] == 3)
-            {
-                Console.WriteLine("User won!");
-            }
-            else if(userAnswer == 3 && list[index] == 2)
-            {
-                Console.WriteLine("User won!");
-            }
-            else if(userAnswer == 2 && list[index] == 1) 
-            {
-                Console.WriteLine("Computer won!");
-            }
-            else if(userAnswer == 3 && list[index] == 2)
-            {
-                Console.WriteLine("Computer won!");
-            }
-            else if(userAnswer == 1 && list[index] == 3)
-            {
-                Console.WriteLine("Computer won!");
-            }
+
+            Console.WriteLine("Computer won!");
         }
     }
 }
