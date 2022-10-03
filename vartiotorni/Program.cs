@@ -1,8 +1,6 @@
 ﻿namespace exercise4
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
     public class Program
     {
         public static void Main(string[] args)
@@ -20,11 +18,11 @@
             {
                Console.WriteLine("The enemy is the north east!"); 
             }
-            if(x = 0 && y > 0)
+            if(x == 0 && y > 0)
             {
                 Console.WriteLine("The enemy is the north!");
             }
-            if(y = 0 && x < 0)
+            if(y == 0 && x < 0)
             {
                 Console.WriteLine("The enemy is the west!");
             }
@@ -32,7 +30,7 @@
             {
                 Console.WriteLine("The enemy is the south west!");
             }
-            if(y < 0 && x = 0)
+            if(y < 0 && x == 0)
             {
                 Console.WriteLine("The enemy is the south!");
             }
@@ -40,7 +38,7 @@
             {
                 Console.WriteLine("The enemy is the south east!");
             }
-            if(y = 0 && x > 0)
+            if(y == 0 && x > 0)
             {
                 Console.WriteLine("The enemy is the east!");
             }
