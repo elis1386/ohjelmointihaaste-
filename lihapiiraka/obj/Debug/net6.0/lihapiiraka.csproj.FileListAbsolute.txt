@@ -1,0 +1,15 @@
+/Users/s2200704/Documents/ohjelmointihaaste-/lihapiiraka/bin/Debug/net6.0/lihapiiraka
+/Users/s2200704/Documents/ohjelmointihaaste-/lihapiiraka/bin/Debug/net6.0/lihapiiraka.deps.json
+/Users/s2200704/Documents/ohjelmointihaaste-/lihapiiraka/bin/Debug/net6.0/lihapiiraka.runtimeconfig.json
+/Users/s2200704/Documents/ohjelmointihaaste-/lihapiiraka/bin/Debug/net6.0/lihapiiraka.dll
+/Users/s2200704/Documents/ohjelmointihaaste-/lihapiiraka/bin/Debug/net6.0/lihapiiraka.pdb
+/Users/s2200704/Documents/ohjelmointihaaste-/lihapiiraka/obj/Debug/net6.0/lihapiiraka.csproj.AssemblyReference.cache
+/Users/s2200704/Documents/ohjelmointihaaste-/lihapiiraka/obj/Debug/net6.0/lihapiiraka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2200704/Documents/ohjelmointihaaste-/lihapiiraka/obj/Debug/net6.0/lihapiiraka.AssemblyInfoInputs.cache
+/Users/s2200704/Documents/ohjelmointihaaste-/lihapiiraka/obj/Debug/net6.0/lihapiiraka.AssemblyInfo.cs
+/Users/s2200704/Documents/ohjelmointihaaste-/lihapiiraka/obj/Debug/net6.0/lihapiiraka.csproj.CoreCompileInputs.cache
+/Users/s2200704/Documents/ohjelmointihaaste-/lihapiiraka/obj/Debug/net6.0/lihapiiraka.dll
+/Users/s2200704/Documents/ohjelmointihaaste-/lihapiiraka/obj/Debug/net6.0/refint/lihapiiraka.dll
+/Users/s2200704/Documents/ohjelmointihaaste-/lihapiiraka/obj/Debug/net6.0/lihapiiraka.pdb
+/Users/s2200704/Documents/ohjelmointihaaste-/lihapiiraka/obj/Debug/net6.0/lihapiiraka.genruntimeconfig.cache
+/Users/s2200704/Documents/ohjelmointihaaste-/lihapiiraka/obj/Debug/net6.0/ref/lihapiiraka.dll
